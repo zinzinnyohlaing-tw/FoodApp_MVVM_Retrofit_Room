@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/DependencyInjection/HiltDependencyInjection/DaggerHilt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVM_Archi_1/DOBCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVM_Archi_1/MVVMAdvanceGit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVM_Archi_1/NoteAppMVVM" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVM_Archi_1/NoteAppMVVM_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/MVVM_Archi_1/QuizApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/New folder/NoteApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/New folder/WorkoutApp/WorkoutApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RetrofitAndroidTutorial/RetrofitFetchData_1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RetrofitAndroidTutorial/RetrofitWithRecyclerView" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RoomDBApp" vcs="Git" />
+  </component>
+</project>
